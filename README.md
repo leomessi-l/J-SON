@@ -51,4 +51,14 @@ Uso: Principalmente para enviar datos entre servidor y aplicaciones web/móviles
     "edad": 35,
     "email": "gaston@example.com"
   }
+
+  ### Lista de Usuarios
+
+| ID | Nombre | Edad | Email |
+| :--- | :--- | :--- | :--- |
+| 1 | Theo | 25 | theo@example.com |
+| 2 | Matheo | 28 | matheo@example.com |
+| 3 | Renzo | 32 | renzo@example.com |
+| 4 | Lorenzo | 22 | lorenzo@example.com |
+| 5 | Gaston | 35 | gaston@example.com |
 ]
